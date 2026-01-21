@@ -184,7 +184,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Built with ❤️ by the API Secure Team**
+**Built with -API Secure Team**
 
 [Report Bug](https://github.com/your-username/api-secure/issues) · [Request Feature](https://github.com/your-username/api-secure/issues)
 
